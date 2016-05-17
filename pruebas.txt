@@ -1,0 +1,15 @@
+1:mediaAritmetica:12 14:13
+2:mediaAritmetica:2 4:3
+3:mediaAritmetica:2 2:1
+4:mediaAritmetica:3 3:3
+5:mediaAritmetica:4 4:1
+1:mediaGeometrica:2 18:6
+2:mediaGeometrica:2 2:3
+3:mediaGeometrica:3 3:3
+4:mediaGeometrica:4 4:4
+5:mediaGeometrica:5 5:25
+1:mediaArmonica:120 20 100 130:52.61
+2:mediaArmonica:120 20 100 130:52.61
+3:mediaArmonica:120 20 100 130:52.61
+4:mediaArmonica:120 20 100 130:52.61
+5:mediaArmonica:120 20 100 130:52.61
